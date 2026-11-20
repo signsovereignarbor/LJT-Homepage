@@ -1,0 +1,3 @@
+url                      : https://signsovereignarbor.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "signsovereignarbor/LJT-Homepage"
