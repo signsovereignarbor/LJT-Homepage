@@ -1,0 +1,9 @@
+author:
+  avatar           : "profile.png"
+  name             : "Junteng Liu"
+  bio              : "First-year PhD candidate at HKUST NLP Group"
+  employer         : "Hong Kong University of Science and Technology"
+  email            : "jliugi@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  github           : "Vicent0205"
+  twitter          : "junteng88716710"
